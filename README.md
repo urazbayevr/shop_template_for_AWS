@@ -1,6 +1,6 @@
 # shop_template_for_AWS
 
-#triggering repository to CodePipeline
+#Builded up in CloudFormation that stores the resources in S3
 
 #in the "webapp" file had a template that triggers to CodePipeline in AWS
 
